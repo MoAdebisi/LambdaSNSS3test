@@ -1,0 +1,1 @@
+# LambdaSNSS3test
